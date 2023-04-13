@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 13 22:21:52 2023
-
-@author: Korisnik
-"""
+#In 2023 we have a problem to get data from Yahoo FInance using Pandas_Datareader. This is a good solutinon that works to read stocks.
 
 import datetime as dt
 import yfinance as yf
